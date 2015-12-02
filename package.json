@@ -1,5 +1,14 @@
 {
   "name": "replace-frameworks-with-flamewars",
+  "version": "0.0.1",
+  "description": "»Take an article on JavaScript, replace “frameworks” with “flamewars”: Suddenly it makes sense.« https://twitter.com/molily/status/671971189103964160",
+  "license": "MIT",
+  "repository": "mischah/replace-frameworks-with-flamewars",
+  "author": {
+    "name": "Michael Kühnel",
+    "email": "mail@michael-kuehnel.de",
+    "url": "http://michael-kuehnel.de"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
