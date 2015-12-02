@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Contains just a simple content script that replaces “frameworks” with “flamewars” on any page. See https://twitter.com/molily/status/671971189103964160",
+    "message": "Contains just a simple content script that replaces “frameworks” with “flamewars” on any page.",
     "description": "The description of the application"
   }
 }
