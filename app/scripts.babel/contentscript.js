@@ -1,6 +1,6 @@
 'use strict';
 
-var treeWalker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+const treeWalker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
 
 while (treeWalker.nextNode()) {
   var node = treeWalker.currentNode;
