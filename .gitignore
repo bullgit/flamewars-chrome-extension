@@ -9,3 +9,4 @@ package
 scripts/*.js
 scripts/*.map
 .DS_Store
+*.sublime-workspace

@@ -1,0 +1,22 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+      "folder_exclude_patterns":
+        [
+          "node_modules",
+          // "dist",
+          "package"
+        ],
+        "file_exclude_patterns":
+        [
+          "*.sublime-workspace",
+          ".gitattributes",
+          ".yo-rc.json",
+          ".bowerrc",
+          ".babelrc"
+        ]
+    }
+  ]
+}
